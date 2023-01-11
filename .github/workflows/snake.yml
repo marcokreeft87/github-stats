@@ -13,7 +13,11 @@ on:
     branches:
     - master
     
-  
+ 
+
+permissions:
+  contents: write
+
 
 jobs:
   generate:
