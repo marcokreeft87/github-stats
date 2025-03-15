@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 83.643%;" class="progress-item"></span><span style="background-color: #178600;width: 10.166%;" class="progress-item"></span><span style="background-color: #3572A5;width: 4.333%;" class="progress-item"></span><span style="background-color: #384d54;width: 1.189%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.566%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.103%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 83.576%;" class="progress-item"></span><span style="background-color: #178600;width: 10.244%;" class="progress-item"></span><span style="background-color: #3572A5;width: 4.326%;" class="progress-item"></span><span style="background-color: #384d54;width: 1.187%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.565%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.102%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">83.64%</span>
+<span class="percent">83.58%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">10.17%</span>
+<span class="percent">10.24%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">0.57%</span>
+<span class="percent">0.56%</span>
 </li>
 
 
