@@ -213,7 +213,7 @@ query {
 """
 
     @staticmethod
-    def contribs_by_year(year: str) -> str:
+    def contribs_by_year(year: int) -> str:
         """
         :param year: year to query for
         :return: portion of a GraphQL query with desired info for a given year
@@ -230,7 +230,7 @@ query {
 """
 
     @classmethod
-    def all_contribs(cls, years: List[str]) -> str:
+    def all_contribs(cls, years: List[int]) -> str:
         """
         :param years: list of years to get contributions for
         :return: query to retrieve contribution information for all user years
