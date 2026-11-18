@@ -39,7 +39,7 @@ class Queries(object):
         :return: decoded GraphQL JSON output
         """
         headers = {
-            "Authorization": f"Bearer {self.access_token}",
+            "Authorization": f"bearer {self.access_token}",
         }
         try:
             async with self.semaphore:
